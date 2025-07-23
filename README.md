@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Analysis — Power BI Dashboard
 
-An interactive Power BI dashboard analyzing sales data from a fictional coffee chain using DAX calculations and visual storytelling.
+An interactive Power BI dashboard analysing sales data from a fictional coffee chain using DAX calculations and visual storytelling.
 
 This project explores transaction-level data from **Maven Roasters**, a fictional coffee shop operating out of three NYC locations. It provides rich insights into revenue trends, product performance, and operational efficiency through time-based segmentation and custom DAX measures.
 
